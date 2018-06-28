@@ -1,0 +1,1 @@
+if(ObjPlayer.GunUp>2)instance_destroy();
